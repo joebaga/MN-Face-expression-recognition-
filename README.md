@@ -73,5 +73,7 @@ We got outputs at each step of the training phase
 ![Screenshot 2022-7](https://user-images.githubusercontent.com/76142720/207542543-c75a1837-e8af-484e-841f-34c59ea1ad71.png)
 ![Screenshot 2022-8](https://user-images.githubusercontent.com/76142720/207542568-b0451956-e5ac-4444-89b5-4112774361f4.png)
 
+# TEST 
 
+![Screenshot 2022-9](https://user-images.githubusercontent.com/76142720/207545406-416bf253-9e7e-4ce0-846b-0a6d2104f651.png)
 
