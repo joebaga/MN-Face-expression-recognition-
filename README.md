@@ -1,5 +1,5 @@
 # MN-Face-expression-recognition-
-### 1.introduction
+# 1.introduction
 
 
 in this project a took kaggle challenge
@@ -9,13 +9,13 @@ i choosed to do a machine learning project that can recognize the facial express
 
 Each image corresponds to a facial expression in one of 2 categories (0=happy, 1=sad). The dataset contains approximately 307 images.
 
-### 2.Remove low quality  images
+# 2.Remove low quality  images
 
 we first wented to clean up the data to remove low quality images and potentially dangerous images that could affect our project.
 
 ![Screenshot 2022-2](https://user-images.githubusercontent.com/76142720/207522112-5413e10e-79c7-446a-8778-cc459698f3e3.png)
 
-### 3.LOAD DATA
+# 3.LOAD DATA
 
 we can all guess which image is related to which emotion. happy or sad
 
@@ -34,7 +34,7 @@ However all this diversity of images will contribute to make a more generalizabl
 
 ![Screenshot 2022-1](https://user-images.githubusercontent.com/76142720/207521137-4d66092f-a106-48d2-8e7f-cb32908bc8e8.png)
 
-### 4.scale data
+# 4.scale data
 
 Once we have a dataset, we can apply transformations to prepare the data for the model
 
@@ -46,13 +46,13 @@ ref: https://www.tensorflow.org/api_docs/python/tf/data/Dataset
 
 ![Screenshot 2022-3](https://user-images.githubusercontent.com/76142720/207532925-73673b0c-28c1-49ee-9a9a-9380d0303979.png)
 
-### We define our CNN
+# We define our CNN
 We apply the ReLU function to introduce non linearity in our CNN
-# ReLU
+### ReLU
 ![Screenshot 2022-5](https://user-images.githubusercontent.com/76142720/207539044-01102c8f-9d21-4495-ba2a-8c57a82bca56.png)
 
  ReLU for short is a piecewise linear function that will output the input directly if it is positive, otherwise, it will output zero
- # sigmoid
+ ### sigmoid
 ![4](https://user-images.githubusercontent.com/76142720/207536164-bf2cb81b-68b8-4486-9a05-1b26e4084471.gif)
 
 in our case it's happy face or sad face;
