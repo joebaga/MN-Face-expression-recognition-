@@ -1,5 +1,4 @@
 # MN-Face-expression-recognition-
-it consists of  facial expression recognition (happy face, sad face)
 ### 1.introduction
 
 
@@ -10,3 +9,4 @@ i choosed to do a machine learning project that can recognize the facial express
 
 Each image corresponds to a facial expression in one of 2 categories (0=happy, 1=sad). The dataset contains approximately 307 images.
 
+![Screenshot 2022-1](https://user-images.githubusercontent.com/76142720/207521137-4d66092f-a106-48d2-8e7f-cb32908bc8e8.png)
