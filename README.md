@@ -79,3 +79,9 @@ We got outputs at each step of the training phase
 
 ![Screenshot 2022-9](https://user-images.githubusercontent.com/76142720/207545406-416bf253-9e7e-4ce0-846b-0a6d2104f651.png)
 
+# ref
+https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge
+
+https://developers.google.com/machine-learning/testing-debugging/metrics/interpretic
+
+https://www.tensorflow.org/api_docs/python/tf/data/Dataset
