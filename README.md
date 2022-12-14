@@ -67,6 +67,11 @@ Our best model managed to obtain a validation accuracy of approximately 98%
 
 ![Screenshot 2022-6](https://user-images.githubusercontent.com/76142720/207540575-644dff3a-6a1d-4954-ba81-63aa60ec4479.png)
 
+# Analyze the results
+We got outputs at each step of the training phase
+
+![Screenshot 2022-7](https://user-images.githubusercontent.com/76142720/207542543-c75a1837-e8af-484e-841f-34c59ea1ad71.png)
+![Screenshot 2022-8](https://user-images.githubusercontent.com/76142720/207542568-b0451956-e5ac-4444-89b5-4112774361f4.png)
 
 
 
