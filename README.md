@@ -48,12 +48,11 @@ ref: https://www.tensorflow.org/api_docs/python/tf/data/Dataset
 
 ### We define our CNN
 We apply the ReLU function to introduce non linearity in our CNN
+# ReLU
 ![Screenshot 2022-5](https://user-images.githubusercontent.com/76142720/207539044-01102c8f-9d21-4495-ba2a-8c57a82bca56.png)
 
-
-
  ReLU for short is a piecewise linear function that will output the input directly if it is positive, otherwise, it will output zero
- 
+ # sigmoid
 ![4](https://user-images.githubusercontent.com/76142720/207536164-bf2cb81b-68b8-4486-9a05-1b26e4084471.gif)
 
 in our case it's happy face or sad face;
