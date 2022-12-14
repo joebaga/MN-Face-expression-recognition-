@@ -41,6 +41,7 @@ Once we have a dataset, we can apply transformations to prepare the data for the
 (as_numpy_iterator). Returns an iterator which converts all elements of the dataset to numpy.
 Use as_numpy_iterator to inspect the content of the dataset. 
 To see element shapes and types, print dataset elements.
-https://www.tensorflow.org/api_docs/python/tf/data/Dataset
+
+ref: https://www.tensorflow.org/api_docs/python/tf/data/Dataset
 ![Screenshot 2022-3](https://user-images.githubusercontent.com/76142720/207532925-73673b0c-28c1-49ee-9a9a-9380d0303979.png)
 
