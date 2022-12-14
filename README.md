@@ -3,7 +3,9 @@
 
 
 in this project a took kaggle challenge
-the data comes from https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge .
+the data comes from 
+
+https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge .
 
 i choosed to do a machine learning project that can recognize the facial expression (happy face , sad face).
 
