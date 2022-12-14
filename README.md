@@ -62,5 +62,11 @@ The main reason why we use sigmoid function is because it exists between (0 to 1
 Therefore, it is especially used for models where we have to predict the probability as an output.
 Since probability of anything exists only between the range of 0 and 1, sigmoid is the right choice.
 
+# Train the model
+Our best model managed to obtain a validation accuracy of approximately 98%
+
+![Screenshot 2022-6](https://user-images.githubusercontent.com/76142720/207540575-644dff3a-6a1d-4954-ba81-63aa60ec4479.png)
+
+
 
 
