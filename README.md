@@ -2,7 +2,8 @@
 # 1.introduction
 
 
-in this project i took a kaggle challenge
+in this project i took a kaggle challenge and used the techniques learned in the class
+
 the data comes from 
 
 https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge .
