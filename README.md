@@ -15,6 +15,20 @@ we first wented to clean up the data to remove low quality images and potentiall
 
 ![Screenshot 2022-2](https://user-images.githubusercontent.com/76142720/207522112-5413e10e-79c7-446a-8778-cc459698f3e3.png)
 
+### LOAD DATA
 
+we can all guess which image is related to which emotion. happy or sad
+
+This task is quite easy for a human, but it may be a bit challenging for a predictive algorithm because:
+
+the images have a low resolution.
+
+the faces are not in the same position.
+
+some images have text written on them.
+
+some people hide part of their faces with their hands.
+
+However all this diversity of images will contribute to make a more generalizable model.
 
 ![Screenshot 2022-1](https://user-images.githubusercontent.com/76142720/207521137-4d66092f-a106-48d2-8e7f-cb32908bc8e8.png)
