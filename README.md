@@ -50,6 +50,7 @@ ref: https://www.tensorflow.org/api_docs/python/tf/data/Dataset
 
 ![4](https://user-images.githubusercontent.com/76142720/207536164-bf2cb81b-68b8-4486-9a05-1b26e4084471.gif)
 
+in our case it's happy face or sad face;
 we used a sigmoid function
 The main reason why we use sigmoid function is because it exists between (0 to 1). 
 Therefore, it is especially used for models where we have to predict the probability as an output.
